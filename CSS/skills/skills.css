@@ -95,3 +95,18 @@
     border-bottom: 2px solid var(--yellow-font);
     border-left: 2px solid var(--yellow-font);
 }
+
+
+@media(max-width: 992px) {
+    
+    .my__skills {
+        padding: 0 0;
+    }
+    
+    .skills__container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: auto;
+    }
+}
