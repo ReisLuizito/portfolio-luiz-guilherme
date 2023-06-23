@@ -64,16 +64,5 @@
         flex-direction: column;
     }
     
-    .cv {
-        background-image: url(/assets/Foto_Profissional.png);
-        background-repeat: no-repeat;
-        background-position: right;
-        background-size: contain;
-        
-    }
 
-    .profile__picture {
-        display: none;
-
-    }
 }

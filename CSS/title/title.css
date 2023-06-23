@@ -78,3 +78,31 @@
         transform: translate3d(0, 0, 0);
     }
 }
+
+    @media(max-width: 992px) {
+    
+    .cv {
+        background-image: url(/assets/Foto_Profissional.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size:initial;
+        padding: 0%;
+    }
+
+    .title__container {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 2rem;
+        margin-top: 5.5rem;
+    }
+
+    .profile__picture {
+        display: none;
+    }
+
+    .cv__link {
+        width: 10rem;
+    }
+
+}
