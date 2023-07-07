@@ -1,6 +1,6 @@
 # My Dev Portfolio
 
-# This is my developer portfolio, a virtual business card where I share my work, skills and my story as a developer.
+This is my developer portfolio, a virtual business card where I share my work, skills and my story as a developer.
 
 ![portfolio-desktop](https://github.com/ReisLuizito/portfolio-luiz-guilherme/assets/131827303/1704efa6-5438-47a7-afd7-6255964d023e)
 
